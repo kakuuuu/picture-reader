@@ -12,7 +12,6 @@ module.exports = withBundleAnalyzer({
   },
   poweredByHeader: false,
   trailingSlash: true,
-  basePath: '/picture-reader',
   reactStrictMode: true,
   i18n,
   webpack: (config) => {
