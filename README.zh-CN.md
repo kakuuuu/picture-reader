@@ -17,6 +17,9 @@
   <a href="https://microsoftedge.microsoft.com/addons/detail/picture-reader/ejbbhhcdffiocibipjepabjbpejplooh">
     <img alt="Follow Us on Twitter" src="https://img.shields.io/chrome-web-store/v/beljcmkgfgeegijofiokcoalfbappfen?style=flat&label=Microsoft Edge Store&logoColor=white&color=%239254de" />
   </a>
+  <a href="https://addons.mozilla.org/firefox/addon/picture-reader/">
+    <img alt="Firefox" src="https://img.shields.io/amo/v/picture-reader?style=flat&label=Firefox Store&logoColor=white&color=%23fec13a" />
+  </a>
   </p>
 </p>
 
@@ -28,9 +31,11 @@
 
 - Microsoft Edge 拓展商店 [Edge Extension](https://microsoftedge.microsoft.com/addons/detail/picture-reader/ejbbhhcdffiocibipjepabjbpejplooh)
 
+- Firefox拓展  [Firefox addons](https://addons.mozilla.org/firefox/addon/picture-reader/)
+
 ## 项目介绍
 
-`Picture Reader` 是一个用于提取当前网页所有图片并在新的统一界面展示的 Chrome/Edge 浏览器插件。该插件提供了幻灯片式播放、图片尺寸过滤、批量下载等功能，使用户能够更方便地浏览和管理网页中的图片。[Official website](https://picture-reader-web.vercel.app/)
+`Picture Reader` 是一个用于提取当前网页所有图片并在新的统一界面展示的 Chrome/Edge/Firefox 浏览器插件。该插件提供了幻灯片式播放、图片尺寸过滤、批量下载等功能，使用户能够更方便地浏览和管理网页中的图片。[Official website](https://picture-reader-web.vercel.app/)
 
 支持绝大部分图片站点 Unsplash、Pexels、 PIXIV、18COMIC...
 

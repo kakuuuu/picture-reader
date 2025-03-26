@@ -9,14 +9,19 @@
    </p>
   <p align="center">
   <a href="https://github.com/kakuuuu/picture-reader/releases">
-    <img alt="Follow Us on Twitter" src="https://img.shields.io/github/v/release/kakuuuu/picture-reader" />
+    <img alt="releases" src="https://img.shields.io/github/v/release/kakuuuu/picture-reader" />
   </a>
   <a href="https://chromewebstore.google.com/detail/picture-reader/beljcmkgfgeegijofiokcoalfbappfen">
-    <img alt="Follow Us on Twitter" src="https://img.shields.io/chrome-web-store/v/beljcmkgfgeegijofiokcoalfbappfen?style=flat&logo=chromewebstore&logoColor=white&color=%2334A853" />
+    <img alt="Chrome Webstore" src="https://img.shields.io/chrome-web-store/v/beljcmkgfgeegijofiokcoalfbappfen?style=flat&logo=chromewebstore&logoColor=white&color=%2334A853" />
   </a>
   <a href="https://microsoftedge.microsoft.com/addons/detail/picture-reader/ejbbhhcdffiocibipjepabjbpejplooh">
-    <img alt="Follow Us on Twitter" src="https://img.shields.io/chrome-web-store/v/beljcmkgfgeegijofiokcoalfbappfen?style=flat&label=Microsoft Edge Store&logoColor=white&color=%239254de" />
+    <img alt="Edge Webstore" src="https://img.shields.io/chrome-web-store/v/beljcmkgfgeegijofiokcoalfbappfen?style=flat&label=Microsoft Edge Store&logoColor=white&color=%239254de" />
   </a>
+   <a href="https://addons.mozilla.org/firefox/addon/picture-reader/">
+    <img alt="Firefox" src="https://img.shields.io/amo/v/picture-reader?style=flat&label=Firefox Store&logoColor=white&color=%23fec13a" />
+  </a>
+
+  
   </p>
 </p>
 
@@ -28,9 +33,11 @@
 
 - Get it at the Microsoft Edge Store [Edge Extension](https://microsoftedge.microsoft.com/addons/detail/picture-reader/ejbbhhcdffiocibipjepabjbpejplooh)
 
+- Get it at the Firefox  [Firefox addons](https://addons.mozilla.org/firefox/addon/picture-reader/)
+
 ## Project Introduction
 
-`Picture Reader` is a Chrome/Edge browser extension that extracts all images from the current webpage and displays them in a unified interface. This extension provides features such as slideshow playback, image size filtering, and batch downloading, making it easier for users to browse and manage images on webpages.[Official website](https://picture-reader-web.vercel.app/en/)
+`Picture Reader` is a Chrome/Edge/Firefox browser extension that extracts all images from the current webpage and displays them in a unified interface. This extension provides features such as slideshow playback, image size filtering, and batch downloading, making it easier for users to browse and manage images on webpages.[Official website](https://picture-reader-web.vercel.app/en/)
 
 Supports most websites: Unsplash, Pexels, PIXIV, 18COMIC...
 
