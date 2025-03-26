@@ -49,7 +49,7 @@ Supports most websites: Unsplash, Pexels, PIXIV, 18COMIC...
 - **Image Size Filtering**: Filters images based on user-defined size criteria, displaying only those that meet the criteria.
 - **Batch Downloading**: Supports batch downloading of images from the current image list, making it easy for users to save and manage images. (Some sites may have restrictions and may not be available for download)
 - **Auto-Load**: automatically scrolls and loads the image content of the web page.
-- **Mobile Adaptation**: Adaptation to mobile screens, adaptation to kiwi browser
+- **Mobile Adaptation**: Adaptation to mobile screens, adaptation to kiwi browser and Firefox Android
 
 ## Usage Examples
 
