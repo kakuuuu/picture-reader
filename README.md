@@ -50,6 +50,7 @@ Supports most websites: Unsplash, Pexels, PIXIV, 18COMIC...
 - **Batch Downloading**: Supports batch downloading of images from the current image list, making it easy for users to save and manage images. (Some sites may have restrictions and may not be available for download)
 - **Auto-Load**: automatically scrolls and loads the image content of the web page.
 - **Mobile Adaptation**: Adaptation to mobile screens, adaptation to kiwi browser and Firefox Android
+- **Hoverbox Quick Entry**: Provides customizable and configurable hover button quick entry (disabled by default).
 
 ## Usage Examples
 
