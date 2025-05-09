@@ -51,6 +51,7 @@ Supports most websites: Unsplash, Pexels, PIXIV, 18COMIC...
 - **Auto-Load**: automatically scrolls and loads the image content of the web page.
 - **Mobile Adaptation**: Adaptation to mobile screens, adaptation to kiwi browser and Firefox Android
 - **Hoverbox Quick Entry**: Provides customizable and configurable hover button quick entry (disabled by default).
+- **Optional features**: automatic full-screen, forced image maximization (full screen width and height)
 
 ## Usage Examples
 
