@@ -39,6 +39,8 @@
 
 `Picture Reader` is a Chrome/Edge/Firefox browser extension that extracts all images from the current webpage and displays them in a unified interface. This extension provides features such as slideshow playback, image size filtering, and batch downloading, making it easier for users to browse and manage images on webpages.[Official website](https://picture-reader-web.vercel.app/en/)
 
+1000+ users across all platforms 
+
 Supports most websites: Unsplash, Pexels, PIXIV, 18COMIC...
 
 ## Main Features

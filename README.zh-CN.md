@@ -37,6 +37,8 @@
 
 `Picture Reader` 是一个用于提取当前网页所有图片并在新的统一界面展示的 Chrome/Edge/Firefox 浏览器插件。该插件提供了幻灯片式播放、图片尺寸过滤、批量下载等功能，使用户能够更方便地浏览和管理网页中的图片。[Official website](https://picture-reader-web.vercel.app/)
 
+1000+全平台用户数 
+
 支持绝大部分图片站点 Unsplash、Pexels、 PIXIV、18COMIC...
 
 ## 主要功能
